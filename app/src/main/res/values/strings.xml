@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">OpenTalk</string>
+    <string name="api_key">vwynx8yj5zq3</string>
+    <string name="jwt_token">eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoidGVvdGlhLWNvZGVzIn0.OQS24eaWSGGsPPaa1D8ssBIbHl0Iu-PiJoRHyxamxI8</string>
 </resources>
